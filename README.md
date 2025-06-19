@@ -1,19 +1,25 @@
-# Gauss Electronics Website
+# Gauss Electronics
 
-This repository hosts the source files for the Gauss Electronics company website, powered by GitHub Pages and Jekyll.
-
-The site showcases our expertise in RF engineering, AI hardware optimization, and advanced communication systems.
+This repository hosts the source files and resources for Gauss Electronics, specializing in embedded firmware security audits and vulnerability analysis for IoT and embedded devices.
 
 ## About
 
-- Built with Markdown and Jekyll
-- Hosted on GitHub Pages: https://gausselectronics.github.io
-- Static website designed for fast, reliable, and easy updates
+We provide hands-on firmware audits to help product teams identify and fix critical security vulnerabilities before attackers do. Our expertise combines electrical engineering, cybersecurity, and embedded software analysis.
 
-## How to contribute
+## Repo Contents
 
-Feel free to suggest improvements or updates via pull requests.
+- Sample audit reports  
+- Tools and scripts for firmware analysis  
+- Demo projects illustrating embedded security techniques  
+
+## How to Contribute
+
+Suggestions and pull requests for improving audit tools, reports, or demos are welcome.
 
 ## Contact
 
-For inquiries, please visit our LinkedIn page or email info@gausselectronics.com.
+For inquiries or to schedule a firmware audit, connect with us on [LinkedIn](https://www.linkedin.com/company/gauss-electronics/) or email fateen.ahmed@gmail.com.
+
+---
+
+*Gauss Electronics – Securing the connected world, one firmware at a time.*

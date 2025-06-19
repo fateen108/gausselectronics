@@ -20,4 +20,4 @@ Our mission is to deliver precision, performance, and innovation in every projec
 
 ## Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/company/gausselectronics) or email us at fateen.ahmed@gmail.com.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/company/gauss-electronics) or email us at fateen.ahmed@gmail.com.
